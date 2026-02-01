@@ -1,0 +1,14 @@
+{
+  "Name": "Schaefer2018 and Tian2020 Atlases Pack",
+  "BIDSVersion": "1.8.0",
+  "DatasetType": "atlas",
+  "License": "CC0",
+  "Authors": [
+    "Gal Kepler"
+  ],
+  "HowToAcknowledge": "Please cite the original publications for the Schaefer2018 and Tian2020 atlases, as well as this atlas pack if you use it.",
+  "ReferencesAndLinks": [
+    "Schaefer, A., Kong, R., Gordon, E. M., Laumann, T. O., Zuo, X.-N., Holmes, A. J., Eickhoff, S. B., & Yeo, B. T. T. (2018). Local-Global Parcellation of the Human Cerebral Cortex from Intrinsic Functional Connectivity MRI. Cerebral Cortex, 28(9), 3095–3114. https://doi.org/10.1093/cercor/bhx179",
+    "Tian, Y., Margulies, D. S., Breakspear, M., & Zalesky, A. (2020). Topographic organization of the human subcortex unveiled with functional connectivity gradients. Nature Neuroscience, 23(11), 1421–1432. https://doi.org/10.1038/s41593-020-00711-6"
+  ]
+}
